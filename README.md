@@ -2,7 +2,7 @@
 
 Welcome to the implementation of the **TIVA** (Through Independent Variables Automatically) for Provably Invariance Learning without Domain Information (ICML 2023)! 🎉
 
-📝 **Note:** The full code is currently being organized and will be released in the future.
+📝 **Note:** The current implementation is the synthetic experiment in Section 4. The full code is currently being organized and will be released in the future.
 
 This work builds upon the **ZIN** project. Don't forget to check out the [ZIN repository](https://github.com/linyongver/ZIN_official/tree/main) for more details. 👀
 
