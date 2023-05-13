@@ -2,14 +2,13 @@
 The implementation of synthetic experiment of learning invariance Through Independent Variables Automatically (TIVA) for Provably Invariance Learning without Domain Information
 The full code is currently being organized and will be released in the future.
 
-This work is built upon the ZIN, please check out the [ZIN](https://github.com/linyongver/ZIN_official/tree/main)
+This work is built upon the ZIN, please check out the [ZIN](https://github.com/linyongver/ZIN_official/tree/main).
 
 # Requirements
 ## Environment
 The code is implemented by Pytorch, the newest version should work, our implementation uses the following environment:
-- pytorch-transformers==1.2.0
-- torch==1.3.1
-- torchvision==0.4.2
+- torch==1.14
+- torchvision==0.15.0
 
 # Parameters
 These are some important parameters:
