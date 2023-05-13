@@ -29,7 +29,7 @@ The following parameters are used for the synthetic simulation:
 # Run TIVA
 You can set the simulation parameter and use other default parameter:
 
-For exmaple, if you want to run synthetic simulation with setting p_s=(0.999, 0.9) and p_v=0.9:
+For exmaple, if you want to run synthetic simulation with setting p_s=(0.999, 0.7) and p_v=0.9:
 ```
-python synthetic_sample.py --noise_ratio 0.1 --cons_train 0.999_0.9
+python synthetic_sample.py --noise_ratio 0.1 --cons_train 0.999_0.7
 ```
