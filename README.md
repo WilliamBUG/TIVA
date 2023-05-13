@@ -34,9 +34,9 @@ In addition, the following parameters are used for the synthetic simulation:
 - `data_num_train`: number of training samples.
 - `data_num_test`: number of testing samples.
 
-## Run Synthetic Simulation in TIVA 🏃‍♂️
+## Run Synthetic Simulation with TIVA 🏃‍♂️
 
-To run synthetic simulation in TIVA, you can set the simulation parameters and use other default values:
+To run synthetic simulation with TIVA, you can set the simulation parameters and use other default values:
 
 For example, if you want to run a synthetic simulation with the following settings:
 - `noise_ratio` set to 0.1
